@@ -1,8 +1,8 @@
 # RedPacket API
 
-Host : 
+Host : 47.95.241.49
 
-Port : 
+Port : 21000
 
 ##User Authentication 
 
