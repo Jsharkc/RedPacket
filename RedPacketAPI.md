@@ -4,7 +4,7 @@ Host : 47.95.241.49
 
 Port : 21000
 
-##User Authentication 
+## User Authentication 
 
 1. 获取 Authentication token (假设已存在用户列表，模拟用户已登录状态，做测试用)
 
